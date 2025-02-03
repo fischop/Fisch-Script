@@ -1,5 +1,3 @@
-**README File:**
-
 # Roblox Fisch Script  
 Unlock the full potential of your Roblox projects with **Fisch Script**, a powerful and optimized Lua scripting tool designed for developers. Whether you're creating immersive game mechanics or automating tasks, this script ensures high performance and scalability.  
 
